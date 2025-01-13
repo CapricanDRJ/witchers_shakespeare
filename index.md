@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "The fall of The Watchers"
+title: "The fall of The Witchers"
 ---
 
 **Disclaimer**: This work is a fictionalized account inspired by real events and individuals on Discord. While the events and characters are based on true occurrences, they have been altered for narrative purposes, including changes to names. Any resemblance to real persons, living or dead, is purely coincidental unless otherwise stated. No harm or malice is intended towards any individual mentioned or referenced.
 
-# The Fall Of The Watchers
+# The Fall Of The Witchers
 
 ## Act I: The Rise of Tension
 
@@ -16,14 +16,14 @@ title: "The fall of The Watchers"
 
 Once more I step into the fray, my friends,
 
-This kingdom, Watchers, long in slumber steeped,
+This kingdom, Witchers, long in slumber steeped,
 
 Shall rise anew, its glory I shall mend,
 
 Beneath my hand, a destiny unreeled!
 
 
-*[Enter Minos, now the leader of Watchers]*
+*[Enter Minos, now the leader of Witchers]*
 
 
 **[Minos]**
@@ -41,7 +41,7 @@ A tangled web where peril often climbs.
 
 Fear not, Minos, for I, with purpose bold,
 
-Shall guide Watchers to a future bright!
+Shall guide Witchers to a future bright!
 
 Our assets, vast, a story yet untold,
 
@@ -59,7 +59,7 @@ But shadows lurk within his burning gaze.
 
 With cautious heart, I tread a path of night,
 
-For Watchers' fate hangs in these coming days.
+For Witchers' fate hangs in these coming days.
 
 
 *[A tense silence hangs heavy in the air. Ilistus stands tall, a charismatic figure with a hidden agenda. Minos watches him intently, burdened by the weight of leadership and the uncertainty of Ilistus's return.]*
@@ -78,7 +78,7 @@ A specter from the past, Ilistus, doth return,
 
 His hungry heart for power fiercely doth yearn.
 
-For Watchers' fate I tremble, lest it fall,
+For Witchers' fate I tremble, lest it fall,
 
 A victim to his pride that conquers all.
 
@@ -100,7 +100,7 @@ Our unity, our wisdom, are the spells
 
 That shield us from the darkness. Minos, strong,
 
-On you rests Watchers' safety, righting wrong.
+On you rests Witchers' safety, righting wrong.
 
 Let discord's whispers find no purchase here,
 
@@ -118,7 +118,7 @@ O'er hearts that may be tempted to betray.
 
 Our defenses, let us bolster and make fast,
 
-Lest Watchers crumble 'neath ambition's blast.
+Lest Witchers crumble 'neath ambition's blast.
 
 **[Minos]**
 
@@ -126,7 +126,7 @@ Your voices, friends, a chorus strong and true,
 
 To face the storm Ilistus may brew.
 
-Watchers shall stand, a fortress 'gainst his might,
+Witchers shall stand, a fortress 'gainst his might,
 
 And banish darkness back into the night.
 
@@ -138,7 +138,7 @@ And banish darkness back into the night.
 
 **[Ilistus]**
 
-King Minos, hark! The Watchers' realm cannot endure
+King Minos, hark! The Witchers' realm cannot endure
 
 While traitors fester 'neath its righteous hood.
 
@@ -158,7 +158,7 @@ Alas, Ilistus, your words ring all too true.
 
 Morbius' allegiance, sadly, seems to wane.
 
-Begone, then, Morbius, from Watchers' view,
+Begone, then, Morbius, from Witchers' view,
 
 Nor trouble us with discord once again.
 
@@ -174,7 +174,7 @@ Capricio, a viper in our midst he lies,
 
 His serpent's tongue with poisoned venom flies.
 
-The Watchers' greatest bane, his plots unfold,
+The Witchers' greatest bane, his plots unfold,
 
 A threat more dire than tales of old.
 
@@ -198,7 +198,7 @@ Thy counsel, Capricio, still doth brightly glow.
 
 No malice stirs within my breast for them,
 
-The Watchers stand apart from this decree.
+The Witchers stand apart from this decree.
 
 Morbius, a friend, with steadfast purpose came,
 
@@ -218,7 +218,7 @@ Restore Morbius, let council's strength outgrow.
 
 Minos, of old, Morbius with steady hand,
 
-Did carve the Watchers' triumphs, etched in stone.
+Did carve the Witchers' triumphs, etched in stone.
 
 His presence here, a pillar that shall stand,
 
@@ -254,7 +254,7 @@ My power thus diminished, is this a burden I must bear?
 
 **[Minos]**
 
-For Watchers' greater good, this course we must maintain.
+For Witchers' greater good, this course we must maintain.
 
 On matters close to home, your talents may remain.
 
@@ -324,7 +324,7 @@ This kingdom's woes upon my shoulders rest.
 
 The path we walk is fraught with dangers dread,
 
-A precipice where Watchers find no rest.
+A precipice where Witchers find no rest.
 
 *[Enter Capricio, Axion, and Kestrelia]*
 
@@ -390,7 +390,7 @@ Doth testify our unity and strength.
 
 I thank thee for restoring me to grace.  
 
-As one who helped to build the Watchers’ base,  
+As one who helped to build the Witchers’ base,  
 
 I lend my wisdom to preserve our cause,  
 
@@ -432,7 +432,7 @@ So be it. Let us now prepare ourselves
 
 For what may come. Ilistus’s ambitions  
 
-Must be curbed, for the good of Watchers all.
+Must be curbed, for the good of Witchers all.
 
 ### Act II Scene III: Ilistus's Grand Standing
 
@@ -458,7 +458,7 @@ Beyond these walls where shadows cast their doubt.
 
 Minos, thou art a coward, undeserved  
 
-Of leading Watchers. Thy decision base,  
+Of leading Witchers. Thy decision base,  
 
 To demote me, is wrought from fear and envy.  
 
@@ -472,7 +472,7 @@ Axion, thou art but a mere puppet,
 
 Dancing to Minos’s tune and false allies.  
 
-Thou hast betrayed the spirit true of Watchers,  
+Thou hast betrayed the spirit true of Witchers,  
 
 Forsaking honor for a coward’s path.
 
@@ -488,7 +488,7 @@ Do stand, let us depart and show our strength,
 
 Our resolve unmatched, beyond all measure.
 
-*[Ilistus exits with several members, heading to the kingdom of Starglade to partake in their tournament, leaving the Watchers' tournament in disarray]*
+*[Ilistus exits with several members, heading to the kingdom of Starglade to partake in their tournament, leaving the Witchers' tournament in disarray]*
 
 ### Act II Scene IV: Cracks in the Foundation
 
@@ -502,7 +502,7 @@ Leaves a gaping wound within our ranks so deep.
 
 Ilistus’s flight might lead to rash actions,  
 
-And Watchers now must brace for coming storms.
+And Witchers now must brace for coming storms.
 
 **[Kestrelia]**
 
@@ -534,7 +534,7 @@ They widen into chasms vast and deep.
 
 Ilistus’s treachery shall not bring  
 
-Our Watchers to their knees! We shall rebuild,  
+Our Witchers to their knees! We shall rebuild,  
 
 Stronger than we were before this dark hour.  
 
@@ -550,7 +550,7 @@ This moment of our internal weakness.
 
 ### Act III Scene I: The Aftermath of Ilistus's Departure
 
-*[The Watchers' kingdom, now weakened by the departure of Ilistus and his followers]*
+*[The Witchers' kingdom, now weakened by the departure of Ilistus and his followers]*
 
 **[Minos]**
 
@@ -566,7 +566,7 @@ Without their aid to bolster our resolve.
 
 **[Capricio]**
 
-Minos, thou hast done well to steer Watchers  
+Minos, thou hast done well to steer Witchers  
 
 Through troubled waters. Yet, Ilistus’s  
 
@@ -617,7 +617,7 @@ Shall overcome the trials that lie ahead.
 
 ### Act III Scene II: Zyx's Antagonism
 
-*[The Watchers' kingdom, in the aftermath of the failed tournament]*
+*[The Witchers' kingdom, in the aftermath of the failed tournament]*
 
 **[Zyx]**
 
@@ -655,7 +655,7 @@ And Zyx now stands against me strong.
 
 Together, they conspire to choke and crush  
 
-The life and spirit of the Watchers' realm.
+The life and spirit of the Witchers' realm.
 
 ### Act III Scene III: Council in Tumult
 
@@ -669,7 +669,7 @@ From foes within, and without set afire.
 
 My counselors wise, what counsel do you bring,
 
-To save our Watchers from this ruinous sting?
+To save our Witchers from this ruinous sting?
 
 **[Capricio]** *With a Scoff*
 
@@ -707,7 +707,7 @@ For Zyx's treachery and Ilistus' blight!
 
 Their wicked blades have shattered what remained
 
-Of Watchers' guard, their power forever stained.
+Of Witchers' guard, their power forever stained.
 
 Perhaps from ashes, we must rise anew,
 
@@ -729,7 +729,7 @@ Your words, a weight upon my troubled soul,
 
 A choice we face, that history will extol.
 
-The fate of Watchers hangs upon this thread,
+The fate of Witchers hangs upon this thread,
 
 May wisdom guide us, lest our kingdom be dead.
 
@@ -831,7 +831,7 @@ And Watcher's spirit, o'er the storm shall ride!
 
 Never shall I yield, oh Minos, your sway,
 
-Your rule is a blight, that leads Watchers astray.
+Your rule is a blight, that leads Witchers astray.
 
 *[Discord tears the land apart, unrest like a wildfire burns]*
 
@@ -857,7 +857,7 @@ To punish his pride, his spirit deride.
 
 My loyal councilors, on weary shoulders I bear,
 
-The crushing weight of Watchers' fate, a gnawing care.
+The crushing weight of Witchers' fate, a gnawing care.
 
 Ilistus' treachery, a serpent's venomed coil,
 
@@ -871,7 +871,7 @@ Ilistus' cunning plans, and Zyx's fierce retreat.
 
 Perhaps from ashes we must rise anew,
 
-For Watchers' grandeur, shattered, lies in view.
+For Witchers' grandeur, shattered, lies in view.
 
 **[Capricio]** *a hand upon his foreign blade*
 
@@ -895,7 +895,7 @@ A perilous path before us, unafraid.
 
 **[Morbius]** *grief etched upon his face*
 
-With hands that built, I watch Watchers now decay,
+With hands that built, I watch Witchers now decay,
 
 Aching to mend its walls, to chase despair away.
 
@@ -1002,7 +1002,7 @@ From seeds of treachery, a bitter harvest sown,
 Behold the kingdom's ruin, all its glories flown!
 
 *[A gesture grand, Minos unveils the sight,
-The once proud Watchers' realm, engulfed in night.
+The once proud Witchers' realm, engulfed in night.
 Towers crumble, walls dissolve in smoke,
 A pyre of memories, a cruel, tragic joke.]*
 
@@ -1012,7 +1012,7 @@ What madness grips thee, Minos? Has thy heart enlarged
 
 With such fell rage, that thou wouldst crush the stone,
 
-Where we, thy Watchers, built our sacred throne?
+Where we, thy Witchers, built our sacred throne?
 
 **[Minos]** *His eyes ablaze*
 
@@ -1042,7 +1042,7 @@ Erased forever. What remains to hold?
 
 Just smoldering embers, stories yet untold.
 
-*[Minos, with a final gesture, sweeps his hand, The library burns, knowledge turns to sand. With heavy heart, Zyx watches, despair's tide, The Watchers' kingdom, lost, nowhere to hide.]*
+*[Minos, with a final gesture, sweeps his hand, The library burns, knowledge turns to sand. With heavy heart, Zyx watches, despair's tide, The Witchers' kingdom, lost, nowhere to hide.]*
 
 ### Act IV Scene V: Arise from the Ashes
 
@@ -1050,7 +1050,7 @@ Just smoldering embers, stories yet untold.
 
 **[Minos]**
 
-Where Watchers stood, proud towers now lie low,
+Where Witchers stood, proud towers now lie low,
 
 A testament to treachery's cruel blow.
 
@@ -1074,7 +1074,7 @@ And cast the darkness of old sins away.
 
 Though born beyond these walls, my heart finds rest
 
-Where Watchers thrived. With thee, I'll face the test.
+Where Witchers thrived. With thee, I'll face the test.
 
 To mend the wounds, to rise from sorrow's hold,
 
@@ -1104,7 +1104,7 @@ A kingdom strong, where unity shall bloom.
 
 With such resolve, a dawn shall pierce the night!
 
-From Watchers' ashes, strength shall take its flight.
+From Witchers' ashes, strength shall take its flight.
 
 Arise, brave hearts, and let us build anew,
 
@@ -1126,7 +1126,7 @@ A burden lifted, though the scars remain,
 
 A king's sorrow etched in heart and brain.
 
-Though Watchers fell, the price, I freely paid,
+Though Witchers fell, the price, I freely paid,
 
 For freedom's light from darkness' hold is made.
 
@@ -1140,7 +1140,7 @@ For freedom's light from darkness' hold is made.
 
 **[Minos]** *Gazing upon the wreckage with a weary sigh*
 
-Behold, fair Axion, where Watchers' grandeur stood,
+Behold, fair Axion, where Witchers' grandeur stood,
 
 A monument to folly, etched in broken stone.
 
@@ -1182,7 +1182,7 @@ And build anew on ruins, free from blame.
 
 **[Morbius]**
 
-Though Watchers' realm lies shattered, friends, its soul
+Though Witchers' realm lies shattered, friends, its soul
 
 Within our hearts still burns, a glowing coal.
 
@@ -1200,7 +1200,7 @@ But from the ashes, wisdom shall arise,
 
 And phoenix-like, stronger we shall rise!
 
-Though Watchers' name be naught but memory's trace,
+Though Witchers' name be naught but memory's trace,
 
 Know, Minos, you have champions in this place.
 
@@ -1210,7 +1210,7 @@ By wisdom's light and unity's embrace,
 
 We'll mend the wounds etched on this weary face.
 
-Watchers' demise, a lesson hard and stark,
+Witchers' demise, a lesson hard and stark,
 
 On trust and honor, we shall build our ark.
 
@@ -1234,7 +1234,7 @@ But for reflection in clear, discerning eyes.
 
 Let healing touch the wounds that fester sore,
 
-From Watchers' ashes, build forevermore.
+From Witchers' ashes, build forevermore.
 
 **[Capricio]**
 
@@ -1252,7 +1252,7 @@ The weight of crowns, a burden few can bear,
 
 Decisions wrought with doubt, with ceaseless care.
 
-Minos, with noble heart, for Watchers strove,
+Minos, with noble heart, for Witchers strove,
 
 And now, as allies, we offer all our love.
 
@@ -1286,7 +1286,7 @@ Thy words ring true, Ilistus. Minos' sin,
 
 A serpent's hiss where loyalty had been.
 
-He hath unraveled Watchers, thread by thread,
+He hath unraveled Witchers, thread by thread,
 
 His reign of terror, o'er our home now spread.
 
@@ -1336,7 +1336,7 @@ Not Capricio's whispers in the fading dark.
 
 **[Ilistus]** *Voice rising again*
 
-Watchers are shattered, legacy defiled!
+Witchers are shattered, legacy defiled!
 
 By treachery's hand, our kingdom exiled!
 
@@ -1354,7 +1354,7 @@ A twisted crown of thorns, where loyalty treads!
 
 Minos, thou standest here, a king of shattered dreams,
 
-The legacy of Watchers, crushed beneath thy schemes!
+The legacy of Witchers, crushed beneath thy schemes!
 
 Their history, their home, all lie in smoldering ash,
 
@@ -1374,7 +1374,7 @@ I sought to mend the cracks, this realm from ruin gain!
 
 A noble aim, perhaps, yet steeped in crimson tide,
 
-Thou'st razed our very past, where Watchers once did confide!
+Thou'st razed our very past, where Witchers once did confide!
 
 How can we trust thy hand to guide us through the night,
 
@@ -1402,7 +1402,7 @@ Let understanding bloom, where shadows dimmed the light.
 
 **[Kestrelia]** *eyes bright with hope*
 
-Leave we the Watchers' remnants, their sorrow and their pain,
+Leave we the Witchers' remnants, their sorrow and their pain,
 
 A new dawn beckons forth, a future we can claim!
 
@@ -1418,7 +1418,7 @@ With lessons learned from ashes, a kingdom strong and brave!
 
 A weary road we've trod, with burdens sore,
 
-The Watchers' weight upon our hearts no more.
+The Witchers' weight upon our hearts no more.
 
 Ilistus' deeds, a chapter turned and sealed,
 
@@ -1436,7 +1436,7 @@ Where time itself shall sing of virtue's light.
 
 **[Morbius]** *Eyes alight*
 
-Let honor bind us to the Watchers' past,
+Let honor bind us to the Witchers' past,
 
 Where unity, like seeds, in hearts were cast.
 
@@ -1480,6 +1480,6 @@ With every stride, our bond, a chain so bright,
 
 A memory etched in dawn's ethereal light.
 
-The Watchers' legacy, a compass ever true,
+The Witchers' legacy, a compass ever true,
 
 In unity we rise, a people strong and new.
