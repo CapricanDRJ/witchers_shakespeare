@@ -797,7 +797,7 @@ Against the chaos' storm, that blows aghast.
 
 Let stalwart hearts within this council dwell,
 
-And show the world, Watcher's purpose, tell!
+And show the world, Witcher's purpose, tell!
 
 With steadfast will, and purpose set alight,
 
@@ -821,7 +821,7 @@ On unity and strength, our future rests, I fear.
 
 Together we shall face this coming tide,
 
-And Watcher's spirit, o'er the storm shall ride!
+And Witcher's spirit, o'er the storm shall ride!
 
 ### Act III Scene VI: The Precipice of Doom
 
