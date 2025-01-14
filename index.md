@@ -3,7 +3,7 @@ layout: default
 title: "The fall of The Witchers"
 ---
 
-**Disclaimer**: This work is a fictionalized account inspired by real events and individuals on Discord. While the events and characters are based on true occurrences, they have been altered for narrative purposes, including changes to names. Any resemblance to real persons, living or dead, is purely coincidental unless otherwise stated. No harm or malice is intended towards any individual mentioned or referenced.
+**Disclaimer**: This work is a fictionalized account inspired by real events and individuals. While the events and characters are based on true occurrences, they have been altered for narrative purposes, including changes to names. Any resemblance to real persons, living or dead, is purely coincidental unless otherwise stated. No harm or malice is intended towards any individual mentioned or referenced.
 
 # The Fall Of The Witchers
 
